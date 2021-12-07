@@ -1,5 +1,5 @@
 //# Primaa
-//program untuk menetukan bilangan prima
+//program untuk menentukan bilangan prima
 
 #include <iostream>
 using namespace std;
